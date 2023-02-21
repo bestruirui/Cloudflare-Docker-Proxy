@@ -8,7 +8,7 @@ const routes = {
   "quay.libcuda.so": "https://quay.io",
   "gcr.libcuda.so": "https://gcr.io",
   "k8s-gcr.libcuda.so": "https://k8s.gcr.io",
-  "ghcr.libcuda.so": "https://ghcr.io",
+  "ghcr.bestrui.top": "https://ghcr.io",
   "cloudsmith.libcuda.so": "https://docker.cloudsmith.io",
 };
 
